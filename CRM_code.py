@@ -107,3 +107,4 @@ while True:
     elif move == "4":
         delete_element()
     print("------------------------")
+a = 1
