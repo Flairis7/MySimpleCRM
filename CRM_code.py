@@ -108,3 +108,4 @@ while True:
         delete_element()
     print("------------------------")
 print(42)
+print([[[[[[[[[[[[[hex(12)]]]]]]]]]]]]])
